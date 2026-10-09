@@ -1,4 +1,4 @@
-# KatletaLabs
+![KatletaLabs — Understand. Verify. Document.](assets/banner.svg)
 
 **Security research · Web security · Reverse engineering**
 
