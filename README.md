@@ -1,8 +1,10 @@
-![KatletaLabs — Understand. Verify. Document.](assets/banner.svg)
+![Katleta Research — Understand. Verify. Document.](assets/banner.svg)
 
 **Security research · Web security · Reverse engineering**
 
 ## About
+
+Katleta Research is my personal space for security learning and research.
 
 I study application security, reverse engineering, and penetration testing.
 My current learning focus is cryptography and advanced networking.
